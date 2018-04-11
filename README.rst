@@ -1,3 +1,5 @@
+### Passgen-cli
+
 Simple CLI password generator. Written in Python
 
 Installation: ``$ pip install passgen-cli``
