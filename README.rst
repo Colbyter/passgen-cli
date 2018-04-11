@@ -1,4 +1,4 @@
-<h3>Passgen-cli<h3>
+###Passgen-cli
 
 Simple CLI password generator. Written in Python
 
