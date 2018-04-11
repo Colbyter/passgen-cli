@@ -1,4 +1,5 @@
-###Passgen-cli
+Passgen-cli
+###########
 
 Simple CLI password generator. Written in Python
 
